@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P74E1HYJmWSk3fmumjj3cDsayND0u1OJXn/LLs9CBPVFHWKyx298s0Su0V1MmXP+5lEHa4fAiB57RbAEWFcYgQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/dotNet/PhoneBookConsole/PhoneBookConsole/PhoneBookConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
